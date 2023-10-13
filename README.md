@@ -2,9 +2,9 @@ CredBot
 =============
 **A credit scoring model** A credit scoring model is a mathematical model used to estimate the probability of default, which is the probability that customers may trigger a credit event (e.g., bankruptcy, obligation default, failure to pay, and cross-default events). In a credit scoring model, the probability of default is normally presented in the form of a credit score. A higher score refers to a lower probability of default.
 
-**Loan Default**: In finance, default is failure to meet the legal obligations of a loan, for example when a home buyer fails to make a mortgage payment, or when a corporation or government fails to pay a bond which has reached maturity.
 
-**Steps Involved**
+
+**Project was completed in the following steps:**
 =============
 * Part 1 - **Data Processing**: Cleaning and Transforming Raw Data into the Understandable Format
 * Part 2 - **Profiling**: Data profiling is the process of examining the data available from an existing information source (e.g. a database or a file) and collecting statistics or informative summaries about that data.
