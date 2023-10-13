@@ -1,9 +1,6 @@
-Credit Score Analysis in Python
+CredBot
 =============
-**A credit scoring model** is a tool that is typically used in the decision-making process of accepting or
-rejecting a loan. A credit scoring model is the result of a statistical model which, based on information
-about the borrower (e.g. age, number of previous loans, etc.), allows one to distinguish between "good"
-and "bad" loans and give an estimate of the probability of default.
+**A credit scoring model** A credit scoring model is a mathematical model used to estimate the probability of default, which is the probability that customers may trigger a credit event (e.g., bankruptcy, obligation default, failure to pay, and cross-default events). In a credit scoring model, the probability of default is normally presented in the form of a credit score. A higher score refers to a lower probability of default.
 
 **Loan Default**: In finance, default is failure to meet the legal obligations of a loan, for example when a home buyer fails to make a mortgage payment, or when a corporation or government fails to pay a bond which has reached maturity.
 
