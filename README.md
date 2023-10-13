@@ -4,7 +4,7 @@ CredBot
 
 
 
-**Project was completed in the following steps:**
+**Steps followed**
 =============
 * Part 1 - **Data Processing**: Cleaning and Transforming Raw Data into the Understandable Format
 * Part 2 - **Profiling**: Data profiling is the process of examining the data available from an existing information source (e.g. a database or a file) and collecting statistics or informative summaries about that data.
